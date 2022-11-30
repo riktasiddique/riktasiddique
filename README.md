@@ -24,7 +24,7 @@
 <li><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> Ask me about Vue.js, React.js, Alpine.js, PHP, WordPress, Laravel and API development.</li>
 <li><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji> I am just one mail away - [rikta.web.dev@gmail.com]</li>
 <li><g-emoji class="g-emoji" alias="smile" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f604.png">😄</g-emoji> Pronouns: She, Cool &amp; Happy <g-emoji class="g-emoji" alias="smile" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f604.png">😄</g-emoji></li>
-<li><g-emoji class="g-emoji" alias="partying_face" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f973.png">🥳</g-emoji> Fun fact: I love to cook, I love to sing, I love to travel on my motorcycle.</li>
+<li><g-emoji class="g-emoji" alias="partying_face" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f973.png">🥳</g-emoji> Fun fact: I love to cook, I love to sing, I love to travel</li>
 <li><g-emoji class="g-emoji" alias="wrench" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f527.png">🔧</g-emoji> Tools - VSCode and the Mighty Terminal</li>
 </ul> 
 
