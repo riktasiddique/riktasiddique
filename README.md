@@ -28,8 +28,6 @@
 <li><g-emoji class="g-emoji" alias="wrench" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f527.png">🔧</g-emoji> Tools - VSCode and the Mighty Terminal</li>
 </ul> 
 
-<!-- Connect with me: -->
-
 ### :fire: My Stats :
 <picture>
 <source 
@@ -42,6 +40,11 @@
 />
 <img src="https://github-readme-stats.vercel.app/api?username=riktasiddique&show_icons=true" />
 </picture>
+<br><br>
+<!-- Connect with me: -->
+<h3 dir="auto"><a id="user-content-where-to-find-me" class="anchor" aria-hidden="true" href="#where-to-find-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Where to find me</h3>
+<a target="_blank" href='https://www.facebook.com/profile.php?id=100007444908274&mibextid=ZbWKwL' ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="03masudrana" height="30" width="40" style="max-width: 100%;"></a>
+<a target="_blank" href='https://www.linkedin.com/in/rikta-akter-58180a242/' ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="masudrana-sv" height="30" width="40" style="max-width: 100%;"></a>
 <!---
 riktasiddique/riktasiddique is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
